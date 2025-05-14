@@ -36,8 +36,4 @@ Featuring hand-painted graphics, dynamic animations, sound effects, and playful 
 - The bunny has feelings! Don’t forget to poke around on the start screen for surprise reactions.
 
 
-✨ For more details and visuals, visit the project page:
-👉 [Hungry Bunny](https://chloezhuqy.wixsite.com/home/hungry-bunny)
-
-
 Happy hopping! 🥕🎨
